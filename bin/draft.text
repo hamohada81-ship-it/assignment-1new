@@ -1,0 +1,27 @@
+import'dart:io';
+
+
+void main(){
+print{'enter your number'}
+int num1=int.parse(stdin.readlineSync()!);
+int mum2=int.parse(stdin.readlineSync()!);
+if (num1 < num2){
+print{'$num1 is max'}
+else
+print{'$num2 'is max'}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
